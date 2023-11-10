@@ -1,0 +1,11 @@
+Hey, AAli
+
+tree >> log.txt
+.
+├── a.out
+├── log.txt
+├── main.cpp
+├── read.sh
+└── run.sh
+
+0 directories, 5 files
